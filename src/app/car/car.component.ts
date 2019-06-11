@@ -11,7 +11,7 @@ import { Component} from '@angular/core';
   //styleUrls: ['./car.component.css']
   styles: [`
   h2 {
-    color: blue;
+    color: pink;
   }
   `]
 })
